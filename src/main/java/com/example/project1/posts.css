@@ -1,0 +1,7 @@
+.vbox_background_left{
+    -fx-background-image: url("unibg.png");
+}
+
+.vbox_background_right{
+    -fx-background-image: url("upcomingEvent.png");
+}
